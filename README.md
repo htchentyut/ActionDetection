@@ -77,6 +77,4 @@ If you find PySlowFast useful in your research, please use the following BibTeX 
   year =         {2020}
 }
 ```
-# slowfast
-# slowfast
-# slowfast
+
